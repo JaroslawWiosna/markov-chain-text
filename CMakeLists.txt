@@ -6,7 +6,7 @@ option(BUILD_LONG_RUNNING_TESTS "Build tests" OFF)
 
 set(EXECUTABLE_OUTPUT_PATH "${CMAKE_SOURCE_DIR}/bin")
 
-set(COMPILE_FLAGS "-std=c++1z -Wall -O2")
+set(COMPILE_FLAGS "-std=c++17 -Wall -O2")
 set(GTEST_FLAGS "-lgtest")
 set(LINK_FLAGS "-lpthread")
 

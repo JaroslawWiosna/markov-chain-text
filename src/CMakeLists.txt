@@ -1,10 +1,13 @@
 cmake_minimum_required (VERSION 2.6)
 
 include_directories( 
+  Random
   Node
+  Chain
 )
 set(files
   Node/Node.cpp
+  Chain/Chain.cpp
 )
 
 ######
