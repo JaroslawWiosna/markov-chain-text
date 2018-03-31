@@ -22,5 +22,4 @@ Chain No. 3
 I do love you all. I am so so so so so so so so so happy. I am only human after all. I am so so so so so so so so happy. I am only human after all. I am tired. I do love and love and banana. Apple and love you all. I am so so so tired. I am so so so happy. I do love you all. I am so so so tired. I am so happy. I am so so so happy. I love and love and love and love and hate. Apple and 
 ```
 
-[![graph.png]()]()
-
+[![graph.png](https://raw.githubusercontent.com/JaroslawWiosna/markov-chain-text/readme-pictures/graph.png)](https://raw.githubusercontent.com/JaroslawWiosna/markov-chain-text/readme-pictures/graph.png)
