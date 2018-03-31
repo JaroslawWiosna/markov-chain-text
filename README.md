@@ -1,9 +1,9 @@
-[![Licence](https://img.shields.io/github/license/JaroslawWiosna/markov-chain-generator.svg)](https://github.com/JaroslawWiosna/markov-chain-generator/blob/master/LICENSE)
-[![Release](https://img.shields.io/github/release/JaroslawWiosna/markov-chain-generator.svg?maxAge=3600)](https://github.com/JaroslawWiosna/markov-chain-generator/releases)
-[![GitHub contributors](https://img.shields.io/github/contributors/JaroslawWiosna/markov-chain-generator.svg)](https://github.com/JaroslawWiosna/markov-chain-generator/graphs/contributors)
-[![Pull Requests](https://img.shields.io/github/issues-pr/JaroslawWiosna/markov-chain-generator.svg)](https://github.com/JaroslawWiosna/markov-chain-generator/pulls)
+[![Licence](https://img.shields.io/github/license/JaroslawWiosna/markov-chain-text.svg)](https://github.com/JaroslawWiosna/markov-chain-text/blob/master/LICENSE)
+[![Release](https://img.shields.io/github/release/JaroslawWiosna/markov-chain-text.svg?maxAge=3600)](https://github.com/JaroslawWiosna/markov-chain-text/releases)
+[![GitHub contributors](https://img.shields.io/github/contributors/JaroslawWiosna/markov-chain-text.svg)](https://github.com/JaroslawWiosna/markov-chain-text/graphs/contributors)
+[![Pull Requests](https://img.shields.io/github/issues-pr/JaroslawWiosna/markov-chain-text.svg)](https://github.com/JaroslawWiosna/markov-chain-text/pulls)
 
-# markov-chain-generator [![Watchers](https://img.shields.io/github/watchers/JaroslawWiosna/markov-chain-generator.svg?style=social&label=Watch)](https://github.com/JaroslawWiosna/markov-chain-generator/watchers) [![Star](https://img.shields.io/github/stars/JaroslawWiosna/markov-chain-generator.svg?style=social&label=Stars)](https://github.com/JaroslawWiosna/markov-chain-generator/stargazers) [![Fork](https://img.shields.io/github/forks/JaroslawWiosna/markov-chain-generator.svg?style=social&label=Fork)](https://github.com/JaroslawWiosna/markov-chain-generator/network)
+# markov-chain-text [![Watchers](https://img.shields.io/github/watchers/JaroslawWiosna/markov-chain-text.svg?style=social&label=Watch)](https://github.com/JaroslawWiosna/markov-chain-text/watchers) [![Star](https://img.shields.io/github/stars/JaroslawWiosna/markov-chain-text.svg?style=social&label=Stars)](https://github.com/JaroslawWiosna/markov-chain-text/stargazers) [![Fork](https://img.shields.io/github/forks/JaroslawWiosna/markov-chain-text.svg?style=social&label=Fork)](https://github.com/JaroslawWiosna/markov-chain-text/network)
 
 > markov chain text generator
 
